@@ -1,0 +1,216 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#0C0805",
+            "lang-select-color": "#FFE100",
+            "bg-light": "#1A110A",
+            "welcome-bonus-bg": "#3D0B0B",
+            "top-games-hover-fg": "#C21818",
+            "main-bg": "#120B07",
+            "text": "#D1C4B8",
+            "text-black": "#FFFFFF",
+            "table-head": "#29150B",
+            "text-head": "#ffffff",
+            "hero-title-text": "#FFFFFF",
+            "welcome-bonus-text": "#AB9E91",
+            "yellow": "#A31F3A",
+            "yellow-button": "#FFE100",
+            "button-text": "#ffffff",
+            "main-button-text": "#0A0500",
+            "border-color": "#9C6A2E",
+            "casino-cards": "#2B1D12",
+            "bonus-border-head": "#FFE100",
+            "bonus-border": "#362112",
+            "providers-back": "#412818",
+            "faq-label": "#4a2d17",
+            "bg-footer": "#030201",
+            "copyright": "#6E5D4F",
+            "starColor": "#FFE100",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5839"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5840",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Mental 2 Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5841",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Mental 2"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Mental 2",
+                    "title": "Mental 2 Slot — Play Nolimit City Horror Game Online",
+                    "description": "Play Mental 2 by Nolimit City — a brutal horror slot with 99,999x max win, xHole, xMental, 3 bonus rounds & Bonus Buy. Try free demo now!",
+                    "canonical": "slot-mental2.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5842",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "slot-mental2.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5843"
+                },
+                "hero": {
+                    "title": "Mental 2 — The Ultimate Horror Slot by Nolimit City",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5844",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5845",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for one of the most extreme horror slots online? Mental 2 by Nolimit City delivers spine-chilling gameplay with a 99,999x max win, ultra-high volatility rated 12\/10, and a full arsenal of xMechanic modifiers. Here's what makes Mental 2 stand out:",
+                    "items": [
+                        "RTP up to 96.06% certified by independent testing labs",
+                        "Max win of 99,999x your stake with God Mode trigger",
+                        "3 bonus round tiers: Bloodletting, Surgery & Experimental",
+                        "xHole, xMental & Fire Reels — next-gen xMechanic modifiers",
+                        "Bonus Buy menu with 9 options including God Mode spin",
+                        "HTML5 technology — instant play on any device, no download"
+                    ],
+                    "advantagesAfterText": "Mental 2 is certified by independent auditors for fair play with a hit frequency of 31.41% and a bonus round triggering once every 269 spins. Play responsibly and enjoy one of the most technically advanced slots from Nolimit City.",
+                    "knowMore": "Know more",
+                    "appTitle": "Mental 2 App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5846",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Mental 2 App",
+                    "mobileGooglePlayImageTitle": "Mental 2 App",
+                    "mobileIosImageTitle": "Mental 2 App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Mental 2 by Nolimit City",
+                        "description1": "Mental 2 is a high-volatility horror video slot by Nolimit City, the studio behind some of the most extreme online slots ever created. Built on the acclaimed original Mental, this sequel pushes every mechanic further with xHole, xMental, and Fire Reels.",
+                        "items": [
+                            "Released with 108 betways on a unique 3-2-3-2-3 grid",
+                            "Volatility rated 12\/10 — highest in Nolimit City lineup",
+                            "God Mode symbol awards instant 99,999x max win",
+                            "Bonus Buy feature with 9 purchase options available"
+                        ],
+                        "description2": "Mental 2 runs on certified HTML5 technology with RNG outcomes verified by independent testing laboratories. The game uses SSL-secured platforms and all results are provably random, ensuring fair play across every spin for real money players worldwide.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/5847",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "We continue bringing the most innovative slot mechanics to players globally. Mental 2 represents the pinnacle of Nolimit City's xMechanic portfolio. Try the free demo to explore all features before playing for real money at any licensed online casino."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Mental 2 Features & Bonus Rounds Guide",
+                        "description": "<h2>Mental 2 Slot Features & Bonus Rounds — Complete Guide<\/h2>\n\n<p>Mental 2 by Nolimit City is not your average online slot. This horror-themed video slot delivers one of the most complex xMechanic frameworks in the entire iGaming industry, combining Fire Frames, Fire Reels, Enhancer Cells, xHole, xMental, and three escalating bonus rounds into a single, cohesive gameplay experience. With 108 default ways to win on a unique 3-2-3-2-3 grid layout, every spin holds the potential to unlock mind-bending multiplier chains that can push your winnings toward the legendary 99,999x max win. Whether you are a seasoned high-volatility slot player or discovering Nolimit City's xMechanic portfolio for the first time, this guide walks you through every feature in detail.<\/p>\n\n<h3>Fire Frames & Fire Reels — The Core Mechanic<\/h3>\n<p>At the heart of Mental 2's gameplay engine sit Fire Frames and the newly introduced Fire Reels. Fire Frames can ignite up to 13 symbol positions at random during base game spins, and any symbol landing in a flaming position is immediately split in two — doubling the number of ways to win for that configuration. Fire Reels take this concept even further: up to all 5 reels can catch fire simultaneously, splitting every symbol on an affected reel into 3 separate instances and multiplying win ways exponentially. This dynamic system is the primary driver behind the slot's insane maximum win potential, as even a single Fire Reel activation can cascade into hundreds of thousands of winning combinations across the grid.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Fire Frames:<\/strong> Ignite up to 13 positions at random, splitting symbols in affected spots into 2 instances and increasing ways to win accordingly. Multiple Fire Frames in a single spin can combine to create enormous win configurations.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Fire Reels:<\/strong> When an entire reel catches fire, every symbol on that reel splits into 3. Fire Reels count as either 2 or 3 Fire Frames for the purpose of activating Enhancer Cells, depending on the number of positions involved.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Persistent Fire (Bonus Rounds):<\/strong> During all three bonus round tiers, every Fire Frame and Fire Reel activated during the triggering spin becomes locked and persistent for the entire duration of the free spins, forming a dramatically enhanced multiplier environment from the very first free spin.<\/li>\n<\/ul>\n\n<h3>Enhancer Cells — The xMechanic Modifier Engine<\/h3>\n<p>Positioned below reels 2, 3, and 4, the three Enhancer Cells are directly tied to the number of active Fire Frames on any given spin. Activate 4 Fire Frames to unlock 1 Enhancer Cell; 6 Fire Frames for 2 cells; and a full 8 Fire Frames or more to trigger all 3 simultaneously. Each activated Enhancer Cell delivers one of four powerful xMechanic modifiers drawn from Nolimit City's signature arsenal, with the potential to stack modifiers from multiple cells in a single spin for truly explosive outcome chains. This modifier system is what elevates Mental 2 far above standard high-volatility slots.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Wild Symbol:<\/strong> A classic but effective modifier — the Wild substitutes for any paying symbol on the grid, helping to complete winning combinations across all active betways.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>xSplit Symbol:<\/strong> One of the most dynamic modifiers in the game. The xSplit not only splits a target symbol on affected reels but also transforms itself into 2 Wild symbols, simultaneously increasing ways to win and plugging gaps in the paytable.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>xNudge Wild:<\/strong> Nudges to fill an entire reel with Wild symbols, adding +1 to the global win multiplier per nudge position. If an xSplit hits an xNudge Wild, the multiplier value receives an additional +1 boost — making this combination one of the most valuable modifier pairings in the slot.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>xWays Symbol:<\/strong> Expands the reel height by revealing 3 randomly chosen matching symbols, effectively adding an extra row of identical symbols. If multiple xWays symbols are active in the same spin, they all reveal the same symbol type for maximum win-way synergy.<\/li>\n<\/ul>\n\n<h3>xHole & xMental — The Signature New Features<\/h3>\n<p>Mental 2 introduces two brand-new mechanics not found in the original game: xHole and xMental. These two features represent the highest-tier modifier events available in the base game and can independently deliver massive payouts in a single spin. The xHole activates when the xHole symbol lands inside a Fire Frame or on a Fire Reel at the second-from-top position on the central reel (reel 3). Once triggered, the xHole mechanics vacuums all pay symbols and Wilds off the reels, then re-introduces them at amplified sizes of ×2, ×4, or ×8, dramatically compressing the grid and multiplying symbol counts. The biggest Mental 2 win ever recorded — a 99,999x multiplier — was triggered via an xHole activation combined with a Bonus Buy on a €0.20 base bet.<\/p>\n\n<p>The xMental feature triggers when the xMental symbol lands inside a Fire Frame or Fire Reel, awarding an immediate extra spin in which all reel positions simultaneously catch fire, all 3 Enhancer Cells activate, and the probability of triggering xHole on that extra spin is significantly elevated. The xMental does not co-trigger with bonus round activations on the same spin, but as a base game modifier, it represents one of the highest single-spin win acceleration events in any Nolimit City title.<\/p>\n\n<h3>Dead Patients & Mental Transform Features<\/h3>\n<p>The Dead Patients mechanic activates when 2 or more Dead Patient premium symbols land simultaneously on the reels. The feature selects one of those symbols and reveals a symbol multiplier between ×5 and ×9,999 — a value that equals the total number of instances of that symbol currently on the grid. This is not a global win multiplier but a symbol-specific instance multiplier, meaning its value scales with how many copies of the symbol are present after all splits and expansions have resolved. Additionally, the Mental Transform feature triggers when Disembodied scatter symbols land on reels 2 and 4 simultaneously during the base game, converting those scatters into high-value symbols including xSplit, xWays, Dead Patient, Wilds, or regular Patient symbols — a transformation that can feed directly into Enhancer Cell activations.<\/p>\n\n<h3>Three Bonus Round Tiers — Bloodletting, Surgery & Experimental<\/h3>\n<p>Mental 2 features a tiered bonus round system with three escalating levels of intensity, all triggered by different combinations of Cognitive scatter symbols (reels 1, 3, 5) and Disembodied scatter symbols (reels 2, 4). Each bonus round tier maintains all persistent Fire Frames and Fire Reels from the triggering spin throughout the entire free spin sequence, creating a pre-loaded explosive environment from the very first free spin.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bloodletting Free Spins (8 spins):<\/strong> Triggered by 3 Cognitive scatters. The lowest-tier bonus, but still powerful thanks to persistent Fire Frames and Fire Reels. Landing a Disembodied scatter during Bloodletting upgrades the round to Surgery Spins. Each additional scatter landing in a Fire Frame awards +1 extra spin; scatters landing on a Fire Reel award +2 extra spins.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Surgery Free Spins (8 spins):<\/strong> Triggered by 3 Cognitive + 1 Disembodied scatter. Adds a sticky Disembodied symbol that triggers Mental Transform on every subsequent spin. Introduces the Dead Multiplier — which collects the highest Dead Patient multiplier each spin and transfers it to new Patient symbols — making every spin in this tier exponentially more powerful than Bloodletting.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Experimental Free Spins (highest tier):<\/strong> Triggered by 3 Cognitive + 2 Disembodied scatters. The Dead Multiplier does NOT decrease after transferring, meaning multipliers accumulate indefinitely across the free spin sequence. Both Disembodied symbols become sticky. This is the highest EV bonus round in Mental 2 and the primary source of the slot's legendary big win potential.<\/li>\n<\/ul>\n\n<h3>God Mode — The Ultimate Win Trigger<\/h3>\n<p>The God Mode feature is the rarest and most spectacular event in Mental 2. It activates when the xGOD symbol lands on each of the 5 reels simultaneously during a base game spin, immediately awarding the absolute maximum win of 99,999× your current stake — with no further spins, calculations, or conditions required. The xGOD symbol, inspired by the Hannibal Lecter-type character from the original Mental, appears prominently throughout the game's narrative and artwork. God Mode can also be purchased via the Bonus Buy menu for 6,666× your stake, giving eligible players a direct route to attempting the maximum win.<\/p>\n\n<h3>Mental 2 Bonus Buy Options<\/h3>\n<p>For players in eligible markets (Bonus Buy is not available in the UK), Mental 2 offers one of the most comprehensive purchase menus in the Nolimit City catalog. Nine distinct purchase options allow players to tailor their session intensity, from low-cost enhancers to premium direct bonus round access. All prices are expressed as multipliers of the current base bet.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #8B0000;\">\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Feature<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Cost<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Reward<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>xBet<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">1.4×<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Guaranteed Cognitive scatter on reel 1<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Full Fire<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">6×<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Fire Frames on all positions<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>xHole Buy<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">99×<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Triggers xHole feature<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>xMental Buy<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">3,200×<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Triggers xMental feature<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>God Mode<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">6,666×<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">GOD MODE spin for max win attempt<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Bloodletting FS<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">100×<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">8–14 Bloodletting Free Spins<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Surgery FS<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">250×<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">9–17 Surgery Free Spins<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Experimental FS<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">1,800×<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">10–20 Experimental Free Spins<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Lucky Draw<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">330×<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Random bonus (50\/40\/10% split)<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>How to Play Mental 2 for Real Money<\/h3>\n<p>Playing Mental 2 for real money is straightforward on any licensed online casino platform offering Nolimit City content. The game accepts bets from €0.20 to €100 per spin, giving it broad accessibility across bankroll sizes. Given the extreme 12\/10 volatility rating — the highest on Nolimit City's internal scale — we strongly recommend starting with the minimum bet to explore the mechanics before scaling up. The bonus round triggers approximately once every 269 spins on average, meaning sessions can be lengthy before the free spins activate organically. Using the xBet option at 1.4× your bet is the most cost-efficient way to improve scatter frequency without committing to a full Bonus Buy purchase.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Mental 2 RTP, Volatility & Strategy Guide",
+                        "description": "<h2>Mental 2 RTP, Volatility, Paytable & Responsible Play<\/h2>\n\n<p>Mental 2 by Nolimit City sits in an elite category of online slot machines defined by extreme statistical profiles and uncompromising design philosophy. Understanding the math model behind this horror slot is essential before committing real money stakes — particularly given its unprecedented volatility rating of 12 out of 10, a figure Nolimit City themselves describe as beyond their standard scale. This section covers the complete RTP breakdown, paytable values, hit frequency data, volatility implications, and a framework for responsible bankroll management that every player should review before launching Mental 2 for real money.<\/p>\n\n<h3>Mental 2 RTP — What Does 95.23% Mean for Players?<\/h3>\n<p>The default RTP (Return to Player) of Mental 2 is 95.23%, which represents the theoretical long-term return of €95.23 for every €100 wagered across millions of spins. However, the certified RTP under optimal base game conditions reaches 96.06%, and the game carries a \"96% RTP\" tag in several casino lobbies globally. It is critical to understand that RTP figures apply to statistical averages across enormous sample sizes — individual sessions can and do deviate dramatically from these numbers, especially in a slot with Mental 2's extreme volatility profile. Always verify which RTP version your casino platform uses, as lower RTP variants (below 95%) exist in certain regulated markets.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Base RTP: 95.23%<\/strong> — The standard version available at most online casino platforms worldwide offering Nolimit City content. Certified by independent testing labs.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Optimal RTP: 96.06%<\/strong> — Available at select platforms; represents the highest-return version of the game and should be prioritised by players who are RTP-conscious in their casino selection.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>RTP Ranges:<\/strong> Mental 2 features RTP range flexibility, meaning operators can configure the return percentage within a regulated band. Always check the in-game information panel for the exact RTP active on your session.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Contribution:<\/strong> A significant portion of Mental 2's RTP is concentrated in the bonus round events (Experimental Free Spins in particular), meaning the majority of the game's theoretical return is delivered through infrequent, high-impact bonus activations rather than base game hits.<\/li>\n<\/ul>\n\n<h3>Volatility Rating — 12 Out of 10<\/h3>\n<p>Mental 2 carries a volatility rating of 12 out of 10 on Nolimit City's internal volatility scale — a score that exceeds the maximum of the scale itself and signals an intentionally extreme risk-reward profile. In practical terms, this means that losing streaks of 200–400 spins without a significant win are statistically normal within a Mental 2 session. The game is engineered around infrequent but catastrophically large payouts rather than steady, frequent medium wins. The hit frequency stands at 31.41%, meaning approximately 31 out of every 100 spins return any win — but the vast majority of these base game hits are small relative to the bet size. The genuine value of Mental 2 is concentrated in rare bonus round activations, particularly Experimental Free Spins, where the non-decreasing Dead Multiplier can compound to astronomical levels.<\/p>\n\n<h3>Mental 2 Paytable — Symbol Values<\/h3>\n<p>The paytable in Mental 2 reflects the horror asylum theme, with the disturbed young girl protagonist populating the premium symbol tier and skeletal imagery filling the lower-value positions. All symbol values are expressed as multipliers of the total bet per spin for 5-of-a-kind wins across the 108 default betways.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px;\">\n  <thead>\n    <tr style=\"background-color: #8B0000;\">\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Symbol<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">Type<\/th>\n      <th style=\"border: 1px solid #ddd; padding: 8px; text-align: left; color: white; font-weight: bold;\">5OAK<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Patient (High)<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Premium<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">2.5×<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Patient (Mid)<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Premium<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">2.0×<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Patient (Low)<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Premium<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">1.0×<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Skeleton (High)<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Low<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">0.75×<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>Skeleton (Low)<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Low<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">0.5×<\/td>\n    <\/tr>\n    <tr style=\"background-color: #1a1a1a; color: #fff;\">\n      <td style=\"border: 1px solid #ddd; padding: 8px;\"><strong>xGOD Symbol<\/strong><\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">Special<\/td>\n      <td style=\"border: 1px solid #ddd; padding: 8px;\">99,999× (God Mode)<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<h3>How Does Mental 2 Compare to the Original Mental?<\/h3>\n<p>Mental 2 is a direct sequel to the original Mental slot, one of Nolimit City's most iconic releases. While both games share the same 3-2-3-2-3 grid structure and 108 default betways, Mental 2 improves on virtually every statistical and mechanical metric. The max win has jumped from the original's already impressive figure to 99,999×, while the max win hit rate has improved — now occurring approximately once every 16 million spins. Mental 2 adds Fire Reels (absent in the original), a third Enhancer Cell, and the entirely new xHole and xMental features. The volatility has also increased from the original's already extreme level, cementing Mental 2's reputation as one of the most brutal high-variance online slot machines available at any licensed casino globally.<\/p>\n\n<h3>Responsible Gambling & Bankroll Management<\/h3>\n<p>Given Mental 2's extreme volatility profile, responsible gambling tools and disciplined bankroll management are not optional — they are essential. Nolimit City and all licensed casino operators offering Mental 2 provide a suite of player protection tools designed to keep gaming enjoyable and within healthy boundaries. We strongly encourage all players to utilise these features before and during their sessions.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Set a Session Budget:<\/strong> Determine the maximum amount you are comfortable losing before starting any Mental 2 session. Given the 12\/10 volatility, bankrolls of at least 200–300× the minimum bet are recommended for meaningful session length at the €0.20 minimum stake.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Use Deposit Limits:<\/strong> All reputable licensed online casinos offer daily, weekly, and monthly deposit limits. Setting these before playing Mental 2 prevents impulsive over-spending during losing streaks that are statistically inevitable with this variance level.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Reality Check Feature:<\/strong> Enable the reality check timer, which sends periodic reminders of how long you have been playing. This is particularly important in Mental 2, where the immersive horror atmosphere and feature anticipation can distort the perception of time.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Self-Exclusion Tools:<\/strong> If gambling stops being entertainment, licensed casinos provide self-exclusion options ranging from temporary cooling-off periods to permanent account closure. Support organisations including GamCare, BeGambleAware, and Gamblers Anonymous offer free assistance globally.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Avoid Chasing Losses:<\/strong> The 99,999× max win occurs statistically once in every 16 million spins. Increasing bet sizes after losing streaks in an attempt to recover losses is a high-risk behaviour that can accelerate bankroll depletion without improving the probability of triggering God Mode or any bonus feature.<\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\"><strong>Bonus Buy Caution:<\/strong> While the Experimental Free Spins Bonus Buy at 1,800× your stake offers direct access to the highest EV bonus round, it represents a significant bet multiplier. Only use Bonus Buy features if the cost is comfortably within your pre-set session budget and you fully understand that the outcome remains subject to RNG.<\/li>\n<\/ul>\n\n<h3>Where to Play Mental 2 Online<\/h3>\n<p>Mental 2 is available at hundreds of licensed online casinos worldwide that carry the Nolimit City games portfolio. The slot is currently accessible in 49 countries, with the highest availability in Finland, New Zealand, Norway, and Austria. When choosing a casino to play Mental 2 for real money, prioritise platforms that display the highest available RTP version (96.06%), offer the full Bonus Buy menu in your jurisdiction, and hold a valid licence from a recognised regulatory authority such as MGA, UKGC, or Curaçao eGaming. Always verify responsible gambling certifications and available player protection tools before making your first deposit.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "What is the RTP of Mental 2 slot by Nolimit City?",
+                            "answer": "Mental 2 has a default RTP of 95.23%, with an optimal version reaching 96.06% at select casino platforms. RTP figures represent long-term statistical averages. Always check the in-game info panel for the exact RTP version active at your casino."
+                        },
+                        {
+                            "title": "What is the maximum win in Mental 2?",
+                            "answer": "The maximum win in Mental 2 is 99,999× your stake, achieved via the God Mode feature when the xGOD symbol lands on all 5 reels simultaneously. This event occurs approximately once every 16 million spins and can also be attempted via the God Mode Bonus Buy at 6,666× your stake."
+                        },
+                        {
+                            "title": "How do I trigger the bonus rounds in Mental 2?",
+                            "answer": "Land 3 Cognitive scatters on reels 1, 3, and 5 to trigger Bloodletting Free Spins (8 spins). Add 1 Disembodied scatter for Surgery Spins, or 2 Disembodied scatters for Experimental Spins — the highest EV bonus tier with a non-decreasing Dead Multiplier. Bonus Buy is available in eligible markets."
+                        },
+                        {
+                            "title": "What does xHole do in Mental 2?",
+                            "answer": "The xHole feature triggers when the xHole symbol appears inside a Fire Frame or Fire Reel on the second-from-top position of reel 3. It vacuums all pay symbols and Wilds from the grid, then re-places them at ×2, ×4, or ×8 boosted sizes — dramatically increasing win ways and multiplier potential."
+                        },
+                        {
+                            "title": "Is Mental 2 available with Bonus Buy?",
+                            "answer": "Yes, Mental 2 offers 9 Bonus Buy options including direct access to all three bonus rounds, xHole, xMental, and God Mode purchases. However, Bonus Buy is not available in the United Kingdom due to UKGC regulations. Check your local casino platform to confirm availability in your country."
+                        },
+                        {
+                            "title": "How volatile is Mental 2 compared to other slots?",
+                            "answer": "Mental 2 is rated 12 out of 10 on Nolimit City's internal volatility scale — exceeding the maximum of their own scale. This makes it one of the most volatile online slots available anywhere. Long losing streaks between significant wins are statistically normal. Always play at low stakes and set firm budget limits."
+                        },
+                        {
+                            "title": "Can I play Mental 2 for free without registering?",
+                            "answer": "Yes, Mental 2 is available in free demo mode at multiple online casino review platforms without requiring registration or a real money deposit. The demo uses virtual credits and allows full exploration of all features including Fire Frames, Enhancer Cells, xHole, and all three bonus round tiers."
+                        },
+                        {
+                            "title": "What devices support Mental 2 by Nolimit City?",
+                            "answer": "Mental 2 is built on HTML5 technology and runs natively in all modern web browsers on desktop, tablet, and mobile devices including iOS and Android smartphones. No download or app installation is required — simply launch the game directly in your browser at any licensed casino supporting Nolimit City content."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

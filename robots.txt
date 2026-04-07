@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://slot-mental2.com/
+Sitemap: https://slot-mental2.com/sitemap.xml
